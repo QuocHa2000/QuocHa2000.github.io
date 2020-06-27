@@ -1,29 +1,35 @@
 .bg-primary {
     background-color: #5E9568 !important;
-  }
-  
-  .text-primary {
+}
+
+.text-primary {
     color: #5E9568 !important;
-  }
-  
-  a {
+}
+
+a {
     color: #5E9568;
-  }
-  
-  a:hover, a:focus, a:active {
-    color: #C5D9C5;
-  }
-  .social-icons a:hover {
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #648D70;
+}
+
+.social-icons a:hover {
     background-color: #5E9568;
     cursor: pointer;
-  }
-  .dev-icons .list-inline-item i:hover {
+}
+
+.dev-icons .list-inline-item i:hover {
     color: #5E9568;
     cursor: pointer;
-  }
-  .header{
-    color: lightblue;
-  }
-  .header:hover{
+}
+
+.header {
+    color: #648D70;
+}
+
+.header:hover {
     color: #5E9568;
-  }
+}
